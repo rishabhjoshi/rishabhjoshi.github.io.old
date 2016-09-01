@@ -4,7 +4,7 @@ baseurl: ""
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-83561703-1
 
 sass:
     style: compressed
