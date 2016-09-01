@@ -3,24 +3,26 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [f2014102@pilani.bits-pilani.ac.in](mailto:f2014102@pilani.bits-pilani.ac.in)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-9828621109](tel:+91-9828621109)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 3134 - Gandhi Bhawan
 >
-> London
+> Vidya Vihar, BITS Pilani
 >
-> United Kingdom
+> Pilani (333031), Rajasthan
+>
+> India
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/rishabh.joshi.047)
+2. [Github](https://github.com/rishabhjoshi)
+3. [LinkedIn](https://in.linkedin.com/in/rishabh-joshi-887351b2)
