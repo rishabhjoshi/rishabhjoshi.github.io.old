@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="WP_20160213_16_01_32_Pro.jpg">
+<img class="profile-picture" src="dp.jpg">
 
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 
