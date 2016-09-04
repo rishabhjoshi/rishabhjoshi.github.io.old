@@ -22,6 +22,9 @@ teach Computers to people. I have also taught in a school run by Sri Aurobindo
 Education Society for disadvantaged childern. I have also served in the Sri 
 Aurobindo Ashram in Pondicherry.
 
+Some of my other interests are Competitive Coding (spoj, codeforces, codechef)
+and touch-typing, having clocked 81wpm at keyhero.
+
 ---
 
 ## Research Interest
@@ -38,71 +41,16 @@ to them. Wouldn't **that** be great!?
 
 ---
 
-## Experience and Projects
+## Responsibilities Handled
 
-### **DataCube for Uttarakhand | IIRS, ISRO**
-
-*May 2016 - July 2016*
-
-I have worked in Indian Institute of Remote Sensing, Indian Space Research 
-Organization (**ISRO**) in the summer of 2016. I was working in the project 
-titled "*Development of Datacube for Uttarakhand using GeoSpatial Technologies*".
-Our task was to study the techniques of forming a DataCube and create one for ISRO.
-
-I was involved in determining the best GIS image storage formats for storing the 
-large satellite image data. I was also involved in the preprocessing of the raw 
-satellite digital number data to useful products such as Radiance and Reflectance. 
-
-I also modeled the core API and Execution Engines of the DataCube and created 
-algorithm templates which could run on the data of the area selected by the 
-user on an interactive web portal. 
-
-The code for the DataCube is open source and you can find it on [Github](http://github.com/sharat910/datacube-iirs).
-
-### **BITS LifeGuard | Mentor: Dr. Rahul Banerjee**
-
-*October 2015 - present*
-
-In LifeGuard we are developing a fault-tolerant, cost-effective smart driver 
-safety jacket with real time monitoring of vital signs, to prevent road 
-accidents and taking emergency action in the unlikely case an accident occurs.
-
-I have worked on authentication schemes of wireless sensor nodes and a compute
-node which are communication via bluetooth. The sensor nodes have pretty low 
-computing capabilities. I was also involved in creating some automation 
-scripts in python language for creating connections and transmitting data between
-the sensors.
-
-### **Wearables Sensor Fusion | Mentor: Dr. Rahul Banerjee**
-
-*August 2016 - Present*
-
-Currently I'm working on adaptive learning aspects of Body Sensor Networks 
-and Sensor Data Fusion. My work consisted of literature survey of various sensor
-data fusion techniques used in Body Sensor Networks for IOT devices.
-
-I am also currently implementing and testing accuracy of various sensor fusion 
-algorithms which are based on Artificial Neural Networks, Support Vector Machines,
-Bayesian probabilistic theory as well as Hidden Markov Models and finally those 
-based on Fuzzy Logic and Decision trees. The accuracy of these models will be 
-measured on real-time driving data which will be taken using a simulator built by the team.
-
-### **e-Yantra | Indian Institute of Technology, Bombay**
-
-*March 18th and 19th 2016*
-
-e-Yantra is an initiative to spread education in Embedded systems and Robotics
-by IIT Bombay. It is sponsored by the Ministry of Human Resource Development, 
-Government of India. It is a group competition where students in a team of 4 
-program a given robotic platform to solve a given problem in 12-15 weeks.
-
-The competition consisted of programming a FireBird-5 bot to solve a given problem
-statement. I was a part of a team of four and after 3 months of coding the bot, 
-we were selected for the finals of e-Yantra out of around 500 teams. 
-
-We came **2nd** in out theme of "Hotel Room Service" out of 57 teams from all 
-over India in the finals which were held on 18th and 19th March 2016, at the 
-IIT Bombay Campus.
+* I am the *Executive Coordinator* at Embryo Club, BITS Pilani, with the responsibility
+of coordinating all the activities of Embryo Club in the campus and between all 
+campuses of BITS Pilani.
+* I was the *Joint Activities Coordinator* at Association of Computing Machinery (ACM) BITS Pilani Chapter, with the duty of managing ACM events/ activities throughout the year.
+* I was the *Executive Committee Member* of Computer Literacy Program at NSS BITS Pilani.
+* I was the *Event Coordinator* of CATChamps 3.0 conducted by BITS Embryo in Feb 2015.
+* I was a backend developer with BITS ACM for an event called CHECKMATE.
+* I organized and was in the question making team for ACM ICL (international coding league) for two years. ICL is a Sport Programming contest based on the ACM-ICPC.
 
 ---
 
