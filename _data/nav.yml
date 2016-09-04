@@ -1,14 +1,15 @@
 - name: "Contact"
   link: "contact"
 
+- name: "Courses"
+  link: "courses"
+
+- name: "Projects"
+  link: "projects"
+
 - name: "Resume"
   link: "Rishabh_Joshi_Resume.pdf"
 
 - name: "Home"
   link: "https://rishabhjoshi.github.io"
 
-- name: "Courses"
-  link: "courses"
-
-- name: "Projects"
-  link: "projects"
