@@ -4,5 +4,11 @@
 - name: "Resume"
   link: "Rishabh_Joshi_Resume.pdf"
 
-- name: "About"
+- name: "Home"
   link: "https://rishabhjoshi.github.io"
+
+- name: "Courses"
+  link: "courses"
+
+- name: "Projects and Experience"
+  link: "projects"
