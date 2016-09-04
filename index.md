@@ -9,14 +9,6 @@ layout: default
 Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
 I like to explore different fields and keep learning. Currently i'm learning to make machines learn.
 
-You can find the full source code of this site on [GitHub](https://github.com/rishabhjoshi/rishabhjoshi.github.io)
-
-## Research Interest
-
-My research interests are mainly in the field of Machine Learning with a focus on ANN. I love understanding how such models work and mimic humans in cognitive tasks. I love to take a multidisciplinary approach to every problem i face.
-
-## Something about me
-
 I also like to travel a lot and I've done many short treks in the Himalayas.
 
 I seldom wake up early and like to think myself of being a night-owl. Blame my alarm. 
@@ -29,11 +21,19 @@ teach Computers to people. I have also taught in a school run by Sri Aurobindo
 Education Society for disadvantaged childern. I have also served in the Sri 
 Aurobindo Ashram in Pondicherry.
 
+You can find the full source code of this site on [GitHub](https://github.com/rishabhjoshi/rishabhjoshi.github.io)
+
+## Research Interest
+
+My research interests are mainly in the field of Machine Learning with a focus on ANN. I love understanding how such models work and mimic humans in cognitive tasks. I love to take a multidisciplinary approach to every problem i face.
+
 //## Publications
 
 //1. F.Bar, J.Doe: Effects of having a placeholder of a name
 
 ## Experience and Projects
+
+#### DataCube for Uttarakhand | IIRS, ISRO
 
 I have worked in Indian Institute of Remote Sensing, Indian Space Research 
 Organization (**ISRO**) in the summer of 2016. I was working in the project 
@@ -50,6 +50,7 @@ user on an interactive web portal.
 
 The code for the DataCube is open source and you can find it on [Github](http://github.com/sharat910/datacube-iirs).
 
+#### BITS LifeGuard | Mentor: Dr. Rahul Banerjee
 Here is a table
 
 Year | Award | Category
