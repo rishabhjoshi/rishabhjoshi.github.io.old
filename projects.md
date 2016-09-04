@@ -23,7 +23,7 @@ The code for the DataCube is open source and you can find it on [Github](http://
 
 ---
 
-### **BITS LifeGuard | Mentor: Dr. Rahul Banerjee**
+### **BITS LifeGuard | Mentor: Dr. Rahul Banerjee (HOD CS Department, BITS Pilani)**
 
 *October 2015 - present*
 
