@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dp.jpg">
+<img class="profile-picture" src="dp2.jpg">
 
 Hi! I am a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani).
 Currently I'm doing a few projects involving Machine Learning. I have also worked in fields like Cryptography and Application Development. I also regularly take part in sport programming (competitive programming)
