@@ -6,24 +6,22 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-I like to explore different fields and keep learning!! Currently i'm learning to make machines learn.
+Hi! I am a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](www.bits-pilani.ac.in/pilani).
+Currently I'm doing a few projects involving Machine Learning. I have also worked in fields like Cryptography and Application Development. I also regularly take part in sport programming (competitive programming)
+competitions ([spoj](www.spoj.com/users/rishabh__joshi), [codechef](www.codechef.com/users/rishabh__joshi)). I have also done projects on Robotics and IOT. I like to explore different fields and keep learning. 
 
-I also like to travel a lot and I've done many short treks in the Himalayas.
+I'm very passionate to make a significant impact in the field of Computer 
+Science.
 
-I seldom wake up early and like to think of myself as being a night-owl. Blame my alarm. 
-The only time I wake up early is when I want to play Badminton or Tennis! I have also
-taken part in Indian Classical Instrumental 
-Orchestra as a Hawaiin Guitarist. 
+Apart from academics, I actively take part in extra curricular activities 
+and various social events. I have taken part in an Indian Classical 
+Instrumental Orchestra as a Hawaiin Guitarist. I have been on various treks
+in the Himalayas. I am an active member of 3 Clubs in my university and I
+believe that these activities serve as building blocks of personality
+development. I am also very active in social work and strongly believe 
+that the greatest satisfaction lies in serving others.
 
-I also like to take part in various social 
-service activities. I'm currently a member of NSS-BITS Pilani chapter, where I 
-teach Computers to people. I have also taught in a school run by Sri Aurobindo 
-Education Society for disadvantaged childern. I have also served in the Sri 
-Aurobindo Ashram in Pondicherry.
-
-Some of my other interests are Competitive Coding (spoj, codeforces, codechef)
-and touch-typing, having clocked 81wpm at keyhero.
+Some of my other interests are playing sports like badminton, football & tennis and touch-typing! (clocked 82wpm at [keyhero](http://keyhero.com/profile/rishabhjoshi).
 
 ---
 
@@ -51,4 +49,5 @@ Coordinator | ACM ICL (coding competition based on ICPC | January 2015 - Present
 
 ---
 You can find the full source code of this site on [GitHub](https://github.com/rishabhjoshi/rishabhjoshi.github.io)
+
 ---
