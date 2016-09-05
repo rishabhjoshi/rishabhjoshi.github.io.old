@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hi! I am a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](www.bits-pilani.ac.in/pilani).
+Hi! I am a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani).
 Currently I'm doing a few projects involving Machine Learning. I have also worked in fields like Cryptography and Application Development. I also regularly take part in sport programming (competitive programming)
-competitions ([spoj](www.spoj.com/users/rishabh__joshi), [codechef](www.codechef.com/users/rishabh__joshi)). I have also done projects on Robotics and IOT. I like to explore different fields and keep learning. 
+competitions ([spoj](http://www.spoj.com/users/rishabh__joshi), [codechef](http://www.codechef.com/users/rishabh__joshi)). I have also done projects on Robotics and IOT. I like to explore different fields and keep learning. 
 
 I'm very passionate to make a significant impact in the field of Computer 
 Science.
