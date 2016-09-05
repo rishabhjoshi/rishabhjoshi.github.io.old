@@ -36,32 +36,19 @@ personalized to **me**! That's probably the reason I like softwares and platform
 which I can customize a lot! I believe that IOT along with machines that mimic humans
 will be a starting step to make my world tuned to my needs and wishes.
 
-No, I'm not selfish. I just believe that everyone should live in a world personalized
-to them. Wouldn't **that** be great!?
-
 ---
 
-## Responsibilities Handled
+## PORs
 
-* I am the *Executive Coordinator* at Embryo Club, BITS Pilani, with the responsibility
-of coordinating all the activities of Embryo Club in the campus and between all 
-campuses of BITS Pilani.
-* I was the *Joint Activities Coordinator* at Association of Computing Machinery (ACM) BITS Pilani Chapter, with the duty of managing ACM events/ activities throughout the year.
-* I was the *Executive Committee Member* of Computer Literacy Program at NSS BITS Pilani.
-* I was the *Event Coordinator* of CATChamps 3.0 conducted by BITS Embryo in Feb 2015.
-* I was a backend developer with BITS ACM for an event called CHECKMATE.
-* I organized and was in the question making team for ACM ICL (international coding league) for two years. ICL is a Sport Programming contest based on the ACM-ICPC.
+Post | Organization | Duration
+--- | --- | ---
+Executive Coordinator | Embryo Club, BITS Pilani | April 2016 - Present
+Joint Activities Coordinator | ACM BITS Pilani Chapter | August 2015 - August 2016
+Executive Committee Member | NSS BITS Pilani Chapter | August 2015 - August 2016
+Event Coordinator | CATChamps 3.0, Embryo Club | February 2015
+Coordinator | ACM ICL (coding competition based on ICPC | January 2015 - Present
 
----
-
-My favourite quote
-
-> What is this life, if full of care; We have no time, to stand and stare...
-
-Excerpt from a poem, *Leisure* by William Henry Davies.
 
 ---
-
 You can find the full source code of this site on [GitHub](https://github.com/rishabhjoshi/rishabhjoshi.github.io)
-
 ---
