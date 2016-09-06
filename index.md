@@ -21,7 +21,7 @@ believe that these activities serve as building blocks of personality
 development. I am also very active in social work and strongly believe 
 that the greatest satisfaction lies in serving others.
 
-Some of my other interests are playing sports like badminton, football & tennis and touch-typing! (clocked 82wpm at [keyhero](http://keyhero.com/profile/rishabhjoshi).
+Some of my other interests are playing sports like badminton, football & tennis and touch-typing! (clocked 82wpm at [keyhero](http://keyhero.com/profile/rishabhjoshi)).
 
 ---
 
