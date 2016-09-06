@@ -40,9 +40,9 @@ will be a starting step to make my world tuned to my needs and wishes.
 
 Post | Organization | Duration
 --- | --- | ---
-Executive Coordinator | Embryo Club, BITS Pilani | April 2016 - Present
-Joint Activities Coordinator | ACM BITS Pilani Chapter | August 2015 - August 2016
-Executive Committee Member | NSS BITS Pilani Chapter | August 2015 - August 2016
+Executive Coordinator | [Embryo Club, BITS Pilani](http://embryo.bits-pilani.ac.in) | April 2016 - Present
+Joint Activities Coordinator | [ACM BITS Pilani Chapter](http://bitsacm.acm.org/) | August 2015 - August 2016
+Executive Committee Member | [NSS BITS Pilani Chapter](http://www.nss-bits-pilani.org/) | August 2015 - August 2016
 Event Coordinator | CATChamps 3.0, Embryo Club | February 2015
 Coordinator | ACM ICL (coding competition based on ICPC | January 2015 - Present
 

@@ -6,8 +6,8 @@ layout: default
 
 *May 2016 - July 2016*
 
-I have worked in Indian Institute of Remote Sensing, Indian Space Research 
-Organization (**ISRO**) in the summer of 2016. I was working in the project 
+I have worked in [Indian Institute of Remote Sensing](http://www.iirs.gov.in/), [Indian Space Research 
+Organization (**ISRO**)](http://www.isro.gov.in/) in the summer of 2016. I was working in the project 
 titled "*Development of Datacube for Uttarakhand using GeoSpatial Technologies*".
 Our task was to study the techniques of forming a DataCube and create one for ISRO.
 
@@ -23,17 +23,17 @@ The code for the DataCube is open source and you can find it on [Github](http://
 
 ---
 
-### **BITS LifeGuard | Mentor: Dr. Rahul Banerjee (HOD CS Department)**
+### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile) (HOD CS Department)**
 
 *October 2015 - present*
 
-In LifeGuard we are developing a fault-tolerant, cost-effective smart driver 
+In [LifeGuard](http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home) we are developing a fault-tolerant, cost-effective smart driver 
 safety jacket with real time monitoring of vital signs, to prevent road 
 accidents and taking emergency action in the unlikely case an accident occurs.
 
 I have worked on authentication schemes of wireless sensor nodes and a compute
-node which are communication via bluetooth. The sensor nodes have pretty low 
-computing capabilities. I was also involved in creating some automation 
+node which communicate via bluetooth. The sensor nodes have pretty low 
+computing capabilities. I was also involved in creating automation 
 scripts in python language for creating connections and transmitting data between
 the sensors.
 
@@ -49,7 +49,7 @@ data fusion techniques used in Body Sensor Networks for IOT devices.
 
 I am also currently implementing and testing accuracy of various sensor fusion 
 algorithms which are based on Artificial Neural Networks, Support Vector Machines,
-Bayesian probabilistic theory as well as Hidden Markov Models and finally those 
+Bayesian probabilistic theory, Hidden Markov Models and finally those 
 based on Fuzzy Logic and Decision trees. The accuracy of these models will be 
 measured on real-time driving data which will be taken using a simulator built by the team.
 
@@ -59,8 +59,8 @@ measured on real-time driving data which will be taken using a simulator built b
 
 *March 18th and 19th 2016*
 
-e-Yantra is an initiative to spread education in Embedded systems and Robotics
-by IIT Bombay. It is sponsored by the Ministry of Human Resource Development, 
+[e-Yantra](http://portal.e-yantra.org/) is an initiative to spread education in Embedded systems and Robotics
+by [IIT Bombay](http://www.iitb.ac.in/). It is sponsored by the Ministry of Human Resource Development, 
 Government of India. It is a group competition where students in a team of 4 
 program a given robotic platform to solve a given problem in 12-15 weeks.
 
@@ -77,8 +77,8 @@ IIT Bombay Campus.
 
 ### Other Achievements
 
-* National Finalist in Microsoft's Build The Shield, a Capture-The-Flag competition 2016.
-* Awarded the "*Shri Ratan Lal Lahoti Memorial Award*" for being the **Board Topper** in Chemistry (100/100), CBSE Board Examination, 2014.
+* **National Finalist** in Microsoft's [Build The Shield](https://buildtheshield.microsoft.com/india/), a Capture-The-Flag competition 2016.
+* Awarded the "*Shri Ratan Lal Lahoti Memorial Award*" for being the **Board Topper** in Chemistry (100/100), [CBSE](http://cbse.nic.in/) Board Examination, 2014.
 * Awarded the "*Shri Dharamveer Gajra Memorial Award*" for being the **School Topper** in Computer Science (99/100), CBSE Board Examination, 2014.
 * Junior Science Talent Search (JSTS) Scholar - Department of Science, Directorate of Education.
 * Secured **All India Rank** (AIR) - **1574** in *IIT-JEE* 2014.
