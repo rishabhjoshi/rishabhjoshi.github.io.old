@@ -27,8 +27,10 @@ Some of my other interests are playing sports like badminton, football & tennis 
 
 ## Research Interest
 
-My research interests are mainly in the field of IOT and Machine Learning with a focus on applications of ML techniques to pervasive computing systems.
-I also take deep interest in ANN and like understanding how such models work and mimic humans in cognitive tasks. I love to take a multidisciplinary approach to every problem I face.
+My research interests are mainly in the field of IOT and Machine Learning with a focus on applications of ML techniques to various domains like pervasive computing systems.
+I also take deep interest in ANN and Deep Learning and like understanding how such models 
+work and mimic humans in cognitive tasks. I love to take a multidisciplinary
+approach to every problem I face.
 
 I have worked on Wearables and IOT and I believe in the theory to make **my** world
 personalized to **me**! I believe that IOT devices and machines that mimic humans
