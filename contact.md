@@ -11,7 +11,7 @@ is_contact: true
 
 ## Mailing Address
 
-> 3134 - Gandhi Bhawan
+> Shankar Bhawan
 >
 > Vidya Vihar, BITS Pilani
 >

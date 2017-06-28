@@ -16,13 +16,19 @@ layout: default
 * Operating Systems
 * Theory of Computation
 * Principles of Programming Languages
+* Compiler Construction
+* Computer Networks
+* Design and Analysis of Algorithms
 
 ### Discipline Electives
 
 * Neural Networks & Fuzzy Logic
 * Information Retrieval
 * Computer Graphics
-* Project Type Course ( Wearables Sensor Fusion)
+* Parallel Computing
+* Pattern Recognition
+* Project Type Course ( Wearables Sensor Fusion )
+* Project Type Course ( Distance Iris Recognition )
 
 ### Mathematics
 

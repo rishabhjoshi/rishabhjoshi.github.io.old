@@ -2,6 +2,10 @@
 layout: default
 ---
 
+---
+# Experience 
+---
+
 ### **DataCube for Uttarakhand | IIRS, ISRO**
 
 *May 2016 - July 2016*
@@ -22,10 +26,30 @@ user on an interactive web portal.
 The code for the DataCube is open source and you can find it on [Github](http://github.com/sharat910/datacube-iirs).
 
 ---
+# Projects
+---
 
-### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile) (HOD CS Department)**
+### **Distance Iris Recognition | Mentor : [Dr. Kamlesh Tiwari](http://www.bits-pilani.ac.in/pilani/kamleshtiwari/profile)**
 
-*October 2015 - present*
+*January 2017 - May 2017*
+
+Iris Recogntion is a well worked on problem of recognizing people based on
+biometric iris data. We worked on a solution for Iris Recognition on 
+Distance images (low quality Iris), using the CASIA Distance Dataset.
+
+The model proposed performs well, with correct recoginition rates of over
+85%, with just priliminary filtering and enhancing 
+of the low quality Iris from the distance images. Gabor filters have been used for matching, after extracting the iris data after segmentation.
+
+Future work will involve clearing the database of blurry images of varying
+degrees and matching using both the eyes' iris, instead of the currently
+used one-eye matching.
+
+---
+
+### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile)**
+
+*October 2015 - Present*
 
 In [LifeGuard](http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home) we are developing a fault-tolerant, cost-effective smart driver 
 safety jacket with real time monitoring of vital signs, to prevent road 
@@ -52,6 +76,23 @@ algorithms which are based on Artificial Neural Networks, Support Vector Machine
 Bayesian probabilistic theory, Hidden Markov Models and finally those 
 based on Fuzzy Logic and Decision trees. The accuracy of these models will be 
 measured on real-time driving data which will be taken using a simulator built by the team.
+
+---
+# Competitions
+---
+
+### **APOGEE MapMyIndia Hackathon | BITS, Pilani**
+
+*April 2017*
+
+Was part of team *TrippyMinds*, which came first in a campus Machine Learning hackathon 
+organized by [MapMyIndia](www.mapmyindia.com/) on [Kaggle](https://inclass.kaggle.com/c/mapmyindia2), a famous platform for Machine Learning Contests, for APOGEE, the technical fest of BITS Pilani.
+
+The problem consisted of solving the problem of detecting the speed limits 
+of roads from street signs captured in images taken on the roads and 
+highways of India. Our approach consisted of an ensembel of custom trained 
+HaarCascade Classifiers running under an ensembel of simple CNNs to 
+classify the extracted bounding boxes.
 
 ---
 

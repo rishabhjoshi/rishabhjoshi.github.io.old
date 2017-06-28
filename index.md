@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani).
 Currently I'm doing a few projects involving Machine Learning. I have also worked in fields like Cryptography and Application Development. I also regularly take part in sport programming (competitive programming)
-competitions ([spoj](http://www.spoj.com/users/rishabh__joshi), [codechef](http://www.codechef.com/users/rishabh__joshi)). I have also done projects on Robotics and IOT. I like to explore different fields and keep learning. 
+competitions ([spoj](http://www.spoj.com/users/rishabh__joshi), [codechef](http://www.codechef.com/users/rishabh__joshi)). I have also done projects on Robotics and IoT. I like to explore different fields and keep learning. 
 
 I'm very passionate to make a significant impact in the field of Computer 
 Science.
@@ -27,13 +27,13 @@ Some of my other interests are playing sports like badminton, football & tennis 
 
 ## Research Interest
 
-My research interests are mainly in the field of IOT and Machine Learning with a focus on applications of ML techniques to various domains like pervasive computing systems.
-I also take deep interest in ANN and Deep Learning and like understanding how such models 
-work and mimic humans in cognitive tasks. I love to take a multidisciplinary
+My research interests are mainly in the field of IoT and Machine Learning with a focus on applications of ML techniques to various domains including pervasive computing systems.
+I also take deep interest in ANNs and Deep Learning and like understanding how such models 
+work and mimic humans in cognitive tasks, especially those related to Vision. I love to take a multidisciplinary
 approach to every problem I face.
 
-I have worked on Wearables and IOT and I believe in the theory to make **my** world
-personalized to **me**! I believe that IOT devices and machines that mimic humans
+I have worked on Wearables and IoT and I believe in the theory to make **my** world
+personalized to **me**! I believe that IoT devices and machines that mimic humans
 will be a starting step to make *my* world tuned to *my* needs and wishes.
 
 ---
@@ -42,7 +42,7 @@ will be a starting step to make *my* world tuned to *my* needs and wishes.
 
 Post | Organization | Duration
 --- | --- | ---
-Executive Coordinator | [Embryo Club, BITS Pilani](http://embryo.bits-pilani.ac.in) | April 2016 - Present
+Executive Coordinator | [Embryo Club, BITS Pilani](http://embryo.bits-pilani.ac.in) | April 2016 - April 2017
 Joint Activities Coordinator | [ACM BITS Pilani Chapter](http://bitsacm.acm.org/) | August 2015 - August 2016
 Executive Committee Member | [NSS BITS Pilani Chapter](http://www.nss-bits-pilani.org/) | August 2015 - August 2016
 Event Coordinator | CATChamps 3.0, Embryo Club | February 2015
