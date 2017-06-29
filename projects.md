@@ -2,8 +2,7 @@
 layout: default
 ---
 
----
-# Experience 
+## Experience 
 ---
 
 ### **DataCube for Uttarakhand | IIRS, ISRO**
@@ -26,7 +25,9 @@ user on an interactive web portal.
 The code for the DataCube is open source and you can find it on [Github](http://github.com/sharat910/datacube-iirs).
 
 ---
-# Projects
+
+## Projects
+
 ---
 
 ### **Distance Iris Recognition | Mentor : [Dr. Kamlesh Tiwari](http://www.bits-pilani.ac.in/pilani/kamleshtiwari/profile)**
@@ -78,7 +79,9 @@ based on Fuzzy Logic and Decision trees. The accuracy of these models will be
 measured on real-time driving data which will be taken using a simulator built by the team.
 
 ---
-# Competitions
+
+## Competitions
+
 ---
 
 ### **APOGEE MapMyIndia Hackathon | BITS, Pilani**
@@ -112,7 +115,6 @@ we were selected for the finals of e-Yantra out of around 500 teams.
 We came **2nd** in out theme of "Hotel Room Service" out of 57 teams from all 
 over India in the finals which were held on 18th and 19th March 2016, at the 
 IIT Bombay Campus.
-
 
 ---
 
