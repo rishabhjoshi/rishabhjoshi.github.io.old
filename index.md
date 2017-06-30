@@ -42,6 +42,7 @@ will be a starting step to make *my* world tuned to *my* needs and wishes.
 
 Post | Organization | Duration
 --- | --- | ---
+Teaching Assistant | Data Structures and Algorithms | January 2017 - May 2017
 Executive Coordinator | [Embryo Club, BITS Pilani](http://embryo.bits-pilani.ac.in) | April 2016 - April 2017
 Joint Activities Coordinator | [ACM BITS Pilani Chapter](http://bitsacm.acm.org/) | August 2015 - August 2016
 Executive Committee Member | [NSS BITS Pilani Chapter](http://www.nss-bits-pilani.org/) | August 2015 - August 2016
