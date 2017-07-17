@@ -28,11 +28,11 @@ The code for the DataCube is open source and you can find it on [Github](http://
 
 ---
 
-### **5G Packets Generator and Analyser| Samsung Research Institute Bangalore**
+### **5G Packets Generator and Analyser| Samsung Research Institute, Bangalore**
 
 *June 2017 - July 2017*
 
-I worked as a summer intern in [Samsung Research Institute, Bangalore]() as
+I worked as a summer intern in [Samsung Research Institute, Bangalore](http://www.samsung.com/in/aboutsamsung/samsungelectronics/india/rnd/) as
 part of the 5G team under the _Communication protocols_ division.
 
 My work was to create a Packet Generator and Analyze for 5G packets as a tool
