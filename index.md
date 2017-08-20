@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="dp2.jpg">
 
-Hey! I am Rishabh, and I'm a third year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani). I am broadly interested in theory and applications of Machine Learning.
+Hey! I am Rishabh, and I'm a senior year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani). I am broadly interested in theory and applications of Machine Learning.
 More recently, I have been working on a few projects involving Sensor Fusion and basic Computer Vision techniques. I also regularly take part in sport programming (competitive programming)
 competitions ([spoj](http://www.spoj.com/users/rishabh__joshi), [codeforces](http://www.codeforces.com/profile/rishabhjoshi)). I have also done projects in the field of Robotics and IoT. I like to explore different fields and keep learning!
 
