@@ -21,10 +21,7 @@ Science.
 
 My research interests are mainly in the field of Machine Learning and IoT with a focus on applications of ML techniques to various domains including pervasive computing systems.
 Of late, I have also started taking interest in ANNs and Deep Neural Networks because of the intriguing way they 
-work and mimic humans in cognitive tasks, especially those related to Vision and Language. 
-
-I believe that IoT devices and machines that mimic humans
-will be a starting step to make *my* world tuned to *my* needs and wishes.
+work and mimic humans in cognitive tasks, especially those related to __Vision__ and __Language__. 
 
 ---
 
