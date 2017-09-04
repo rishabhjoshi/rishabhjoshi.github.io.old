@@ -11,7 +11,7 @@ is_contact: true
 
 ## Mailing Address
 
-> Shankar Bhawan
+> 127 Shankar Bhawan
 >
 > Vidya Vihar, BITS Pilani
 >
