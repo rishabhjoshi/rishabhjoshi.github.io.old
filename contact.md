@@ -4,6 +4,7 @@ is_contact: true
 ---
 
 * Email: [f2014102@pilani.bits-pilani.ac.in](mailto:f2014102@pilani.bits-pilani.ac.in)
+         [rishabhjoshi0407@gmail.com](mailto:rishabhjoshi0407@gmail.com)
 
 * Phone: [+91-9828621109](tel:+91-9828621109)
 
@@ -11,11 +12,11 @@ is_contact: true
 
 ## Mailing Address
 
-> 127 Shankar Bhawan
+> 303 CDS, MALL LAB
 >
-> Vidya Vihar, BITS Pilani
+> Indian Institute of Science
 >
-> Pilani (333031), Rajasthan
+> Bangalore (560012), Karnataka 
 >
 > India
 
