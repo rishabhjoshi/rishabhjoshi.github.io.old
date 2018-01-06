@@ -29,6 +29,7 @@ layout: default
 * Pattern Recognition
 * Project Type Course ( Wearables Sensor Fusion )
 * Project Type Course ( Distance Iris Recognition )
+* Project Type Course ( One Class Classification )
 
 ### Mathematics
 
@@ -50,5 +51,6 @@ layout: default
 * Technical Report Writing
 * Electrical Sciences
 * Engineering Graphics
+* Project Type Course ( Ad Effectiveness )
  
  ---
