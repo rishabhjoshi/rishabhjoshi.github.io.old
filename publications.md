@@ -13,6 +13,6 @@ layout: default
 
 Shikhar Vashishth, **Rishabh Joshi**, Sai Suman Prayaga, Chiranjib Bhattacharyya and Partha Talukdar
 
-[Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)](http://acl2018.org/), Brussels, Belgium
+[Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)](http://emnlp2018.org/), Brussels, Belgium
 
 ---
