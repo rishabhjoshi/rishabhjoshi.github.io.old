@@ -5,18 +5,15 @@ layout: default
 ## Experience 
 ---
 
-### **Relation Extraction using Canonicalized Distant Supervision | MALL Lab, IISc, Bangalore**
+### **Distant Supervised Relation Extraction | MALL Lab, IISc, Bangalore**
 
-*Jan 2017 - Present*
+*Jan 2018 - July 2018*
 
-I am working as a research intern in [Machine and Language Learning Lab](http://malllabiisc.github.io/) under the supervision of 
-[Prof. Partha Talukdar](http://talukdar.net/). My work is focused on creating a domain specific **Knowledge Graph** in a 
+I worked as a research intern in [Machine and Language Learning Lab](http://malllabiisc.github.io/) under the supervision of 
+[Prof. Partha Talukdar](http://talukdar.net/). My work was focused on creating a domain specific **Knowledge Graph** in a 
 Never Ending Language Learning System (**NELL**). 
 
-I am trying to solve the problem of **Relation Extraction** using a novel approach for Distant Supervision. We are trying to align
-Wikidata Knowledge Graph with Clueweb, Wikipedia and Gigaword corpora for scalable relation extraction.
-
-I am also working on the Wikidata Knowledge Graph for the problem of Entity Linking, which is a very important problem in NLP.
+I was working to solve the problem of **Relation Extraction** using a novel approach for Distant Supervision. The work resulted in a paper in EMNLP 2018. 
 
 ---
 
