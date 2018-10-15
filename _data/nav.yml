@@ -3,12 +3,12 @@
 
 - name: "Courses"
   link: "courses"
+  
+- name: "Publications"
+  link: "publications"
 
 - name: "Projects"
   link: "projects"
-
-- name: "Publications"
-  link: "publications"
 
 - name: "Resume"
   link: "Rishabh_Joshi_Resume.pdf"
