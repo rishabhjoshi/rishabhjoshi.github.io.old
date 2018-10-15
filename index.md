@@ -6,22 +6,22 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hey! I am Rishabh, and I'm a senior year undergraduate student of B.E. Computer Science at [Birla Institute of Technology and Science, Pilani](http://www.bits-pilani.ac.in/pilani). I am broadly interested in theory and applications of Machine Learning.
-More recently, I have been working on a few projects involving Sensor Fusion and basic Computer Vision techniques. I also regularly take part in sport programming (competitive programming)
-competitions ([spoj](http://www.spoj.com/users/rishabh__joshi), [codeforces](http://www.codeforces.com/profile/rishabhjoshi)). I have also done projects in the field of Robotics and IoT. I like to explore different fields and keep learning!
+Hey! I am Rishabh, and I'm a research software engineer at Samsung R&D Institute, Bangalore, India. I am broadly interested the field of Natural Language Processing.
+In Samsung, I'm a part of the Voice Intelligence team (NLU) and working on chat bots. 
 
-I have also had the opportunity to work on some interesting problems at IIRS, ISRO (Indian Space Research Organization) and Samsung Research Institute, Bangalore.
+Prior to this, I worked with [Dr. Partha Talukdar](http://talukdar.net) at [Machine And Language Learning (MALL) Lab](http://malllabiisc.github.io/) in the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) as part of my Bachelor thesis. I completed my bachelors degree in computer science from [BITS Pilani, Pilani](http://www.bits-pilani.ac.in/pilani/) in 2018. 
 
-I'm very passionate to make a significant impact in the field of Computer 
-Science.
+I had worked on projects involving Sensor Fusion and Computer Vision in my University. More details can be found on the projects section.
+
+During my undergraduate years, I had the opportunity to work on some interesting problems at [IIRS, ISRO](https://www.iirs.gov.in/) (Indian Space Research Organization) and Samsung Research Institute, Bangalore.
 
 ---
 
 ## Research Interest
 
-My research interests are mainly in the field of Machine Learning and IoT with a focus on applications of ML techniques to various domains including pervasive computing systems.
+My research interests are mainly in the field of Machine Learning with a focus on applications of ML techniques to various domains.
 Of late, I have also started taking interest in ANNs and Deep Neural Networks because of the intriguing way they 
-work and mimic humans in cognitive tasks, especially those related to __Vision__ and __Language__. 
+work and mimic humans in cognitive tasks, especially those related to __Language__. 
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [f2014102@pilani.bits-pilani.ac.in](mailto:f2014102@pilani.bits-pilani.ac.in)
+* Email: [f2014102p@alumin.bits-pilani.ac.in](mailto:f2014102p@alumni.bits-pilani.ac.in)
          [rishabhjoshi0407@gmail.com](mailto:rishabhjoshi0407@gmail.com)
 
 * Phone: [+91-9828621109](tel:+91-9828621109)
@@ -12,11 +12,11 @@ is_contact: true
 
 ## Mailing Address
 
-> 303 CDS, MALL LAB
+> Pheonix Building, Bagmane Constellation Park
 >
-> Indian Institute of Science
+> Samsung R&D Institute, India
 >
-> Bangalore (560012), Karnataka 
+> Bangalore (560037), Karnataka 
 >
 > India
 
