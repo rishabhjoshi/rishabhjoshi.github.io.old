@@ -63,18 +63,18 @@ The code for the DataCube is open source and you can find it on [Github](http://
 
 ### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile)**
 
-*August 2016 - Present*
+*Nov 2015 - Jan 2018*
 
-In [LifeGuard](http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home) we are developing a fault-tolerant, cost-effective smart driver 
+In [LifeGuard](http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home) we are developed a fault-tolerant, cost-effective smart driver 
 safety jacket with real time monitoring of vital signs, to prevent road 
 accidents and taking emergency action in the unlikely case an accident occurs.
 
-Currently I'm working on adaptive learning aspects of Body Sensor Networks 
+I worked on adaptive learning aspects of Body Sensor Networks 
 and **Sensor Data Fusion**. My work consisted of literature survey of various sensor
-data fusion techniques used in Body Sensor Networks for IOT devices using 
+data fusion techniques used in Body Sensor Networks for IoT devices using 
 sensor data like GSR, ECG, HR, Respiration, etc.
 
-I am also currently implementing and testing accuracy of various sensor fusion 
+I also implemented and tested accuracy of various sensor fusion 
 algorithms which are based on Artificial Neural Networks, Support Vector Machines,
 Bayesian probabilistic theory, Hidden Markov Models and finally those 
 based on Fuzzy Logic and Decision trees. The accuracy of these models will be 
