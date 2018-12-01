@@ -27,4 +27,4 @@ is_contact: true
 1. [Facebook](https://www.facebook.com/rishabh.joshi.047)
 2. [Github](https://github.com/rishabhjoshi)
 3. [LinkedIn](https://in.linkedin.com/in/rishabh-joshi-887351b2)
-4. [Google Scholar](https://scholar.google.co.in/citations?user=vu2pNVAAAAAJ&hl=en&oi=ao}{Google Scholar)
+4. [Google Scholar](https://scholar.google.co.in/citations?user=vu2pNVAAAAAJ&hl=en&oi=ao)
