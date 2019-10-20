@@ -6,10 +6,9 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hey! I am Rishabh, and I'm a research software engineer at Samsung R&D Institute, Bangalore, India. I am broadly interested the field of Natural Language Processing.
-In Samsung, I'm a part of the Voice Intelligence team (NLU) and we are working on chatbots. 
+Hey! I am Rishabh, and I'm a master's in Language Technologies student at the Language Technologies Institute, School of Computer Science, Carnegie Mellon University. I am being co-advised by [Prof. Alan W. Black](http://www.cs.cmu.edu/~awb/) and [Prof. Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/) on a project on Negotiation in dialogue systems. I am broadly interested the field of Natural Language Processing.
 
-Prior to this, I worked with [Dr. Partha Talukdar](http://talukdar.net) at [Machine And Language Learning (MALL) Lab](http://malllabiisc.github.io/) in the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) as part of my Bachelor thesis. I completed my bachelor degree in computer science from [BITS Pilani, Pilani](http://www.bits-pilani.ac.in/pilani/) in 2018. 
+Prior to this, I was a software engineer at Samsung Research Institute, Bangalore, India where I was working in the Voice Intelligence team (NLU) on dialogue systems and chat bots. Before that, I spent a wonderful semester working with [Prof. Partha Talukdar](http://talukdar.net) at [Machine And Language Learning (MALL) Lab](http://malllabiisc.github.io/) in the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) as part of my Bachelor thesis. I completed my bachelor degree in computer science from [BITS Pilani, Pilani](http://www.bits-pilani.ac.in/pilani/) in 2018. 
 
 I had worked on projects involving Sensor Fusion and Computer Vision in my university. More details can be found on the projects section.
 
