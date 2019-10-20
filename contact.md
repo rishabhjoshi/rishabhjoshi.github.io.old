@@ -3,11 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: rjoshi at andrew dot cmu dot edu
-         rishabhjoshi0407 at gmail dot com
+* Email: rjoshiATandrewDOTcmuDOTedu, rishabhjoshi0407ATgmailDOTcom
 
-* Phone: +91 9828621109
-	 +1 (412) 636-6014
+* Phone: +91 9828621109, +1 (412) 636-6014
 
 
 ---
