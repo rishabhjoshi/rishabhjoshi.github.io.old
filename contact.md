@@ -3,22 +3,24 @@ layout: default
 is_contact: true
 ---
 
-* Email: [f2014102p@alumni.bits-pilani.ac.in](mailto:f2014102p@alumni.bits-pilani.ac.in)
-         [rishabhjoshi0407@gmail.com](mailto:rishabhjoshi0407@gmail.com)
+* Email: rjoshi at andrew dot cmu dot edu
+         rishabhjoshi0407 at gmail dot com
 
-* Phone: [+91-9828621109](tel:+91-9828621109)
+* Phone: +91 9828621109
+	 +1 (412) 636-6014
+
 
 ---
 
 ## Mailing Address
 
-> Pheonix Building, Bagmane Constellation Park
+> 5000 Forbes Avenue
 >
-> Samsung Research Institute, India
+> Carnegie Mellon University
 >
-> Bangalore (560037), Karnataka 
+> Pittsburgh, PA, 15213
 >
-> India
+> USA
 
 ---
 
