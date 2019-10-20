@@ -2,6 +2,13 @@
 layout: default
 ---
 
+## Graduate
+
+* 10701 - Introduction to Machine Learning (PhD level)
+* 11711 - [Algorithm's for NLP](http://demo.clab.cs.cmu.edu/11711fa19/)
+
+## Undergraduate
+
 ### Computer Science
 
 * Computer Programming
